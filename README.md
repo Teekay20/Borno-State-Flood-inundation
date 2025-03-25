@@ -1,6 +1,6 @@
 ﻿# Borno-State-Flood-Inundation (Sept–Oct 2024)
 
- Severe flooding wreaked havoc across Borno State in September and October 2024, displacing communities and damaging farmland and infrastructure. Satellite imagery from Sentinel-1 highlighted the full extent of the destruction, helping to guide vital disaster response actions. The analysis revealed:
+ Severe flooding wreaked havoc across Borno State, Nigeria in September and October 2024, displacing communities and damaging farmland and infrastructure. Satellite imagery from Sentinel-1 highlighted the full extent of the destruction, helping to guide vital disaster response actions. The analysis revealed:
 
 ** Flooded areas covering significant portions of the state.
 
